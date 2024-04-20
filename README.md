@@ -1,5 +1,9 @@
 # FastAPI-LangChain-Streaming
 
+
+https://github.com/SiddharthUchil/FastAPI-LangChain-Streaming/assets/36127139/7f4dfe3a-c081-484f-bd48-df82386f0d8a
+
+
 This project showcases a unique integration of LangChain's streaming capabilities with the FastAPI framework. It provides a practical example of how real-time streaming responses from language models can be achieved in a web application setting.
 
 ## Key Feature
